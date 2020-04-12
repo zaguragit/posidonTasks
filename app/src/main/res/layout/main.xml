@@ -9,11 +9,12 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Tasks"
+        android:text="@string/title"
         android:textSize="36sp"
         android:paddingLeft="24dp"
         android:paddingRight="24dp"
-        android:paddingBottom="12dp"/>
+        android:paddingBottom="12dp"
+        android:fontFamily="@font/posidon_sans"/>
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="match_parent"

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="fg">#ffffff</color>
-    <color name="cardbg">#111213</color>
+    <color name="cardbg">#0D1216</color>
+    <color name="icbg">#1D222A</color>
     <color name="bg">#000000</color>
     <color name="accent">#1155ff</color>
 </resources>
